@@ -15,6 +15,6 @@ function number2Yeeha(integer)
 }
 
 
-console.log(` its ${number2Yeeha(5)}`);
+//console.log(` its ${number2Yeeha(5)}`);
 
 export { number2Yeeha }
